@@ -1,0 +1,5 @@
+Que hace esta ruta
+la ruta POST /reporte recibe datos JSON desde el cliente, toma el campo 'mensaje' del body y devuelve un JSON cnfirmando que el reporte fue recibido con el mismo mensaje .
+
+para que podria servir en un aplicación comunitaria
+Serviria para que los vecinos envíen reportes o denuncias. ej: reportar basura , alumbrado dañado , baches. la app movil/web envia el reporte con POST y el Servidorlo guarda

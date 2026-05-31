@@ -1,0 +1,9 @@
+http://localhost:3000
+descripción nomalmente responde "Hola mundo"o " Servidor funcionando" . Es el mensaje de bienvenida 
+
+http://localhost:3000/saludo
+descripción devuelve el saludo fijo como "¡Hola! Bienvenido" o "Saludos desde el servidor"
+
+http://localhost:3000/mensaje/juan
+descripción te devuelve el nombre que pusiste en la URL. 
+ejemplo "mensaje para juan" puede que cambie si pones tu nombre 
